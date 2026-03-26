@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "W1wIMwgtF30=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RONNY OMONDI\\OneDrive\\Desktop\\CsvProcessor Version 1\\CsvProcessor.Core\\CsvProcessor.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RONNY OMONDI\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
+    "C:\\Users\\RONNY OMONDI\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.9\\microsoft.aspnetcore.http.abstractions.2.3.9.nupkg.sha512",
+    "C:\\Users\\RONNY OMONDI\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\RONNY OMONDI\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\RONNY OMONDI\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
